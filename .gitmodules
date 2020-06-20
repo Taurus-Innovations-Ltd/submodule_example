@@ -1,0 +1,6 @@
+[submodule "mod1"]
+	path = mod1
+	url = http://www.github.com/taurusInnovations/mod1
+[submodule "mod2"]
+	path = mod2
+	url = http://www.github.com/taurusInnovations/mod2
